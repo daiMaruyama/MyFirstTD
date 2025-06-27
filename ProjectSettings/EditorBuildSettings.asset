@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: 5bcdda9a566096b43a7d4a96166cd72f
+  - enabled: 1
+    path: Assets/Scenes/MaruyamaTD.unity
+    guid: d6cb92311700d1245bb3b6ba7cbfdb3a
   m_configObjects: {}
